@@ -1,4 +1,4 @@
-# SoundNet Music Source Separation
+# Stem Splitter 
 
 A deep learning project leveraging the U-Net architecture to separate individual musical instruments from audio recordings. This project demonstrates a novel approach to music source separation using convolutional neural networks, with a focus on clarity, reproducibility, and practical results.
 
